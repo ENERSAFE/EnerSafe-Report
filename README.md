@@ -1,2 +1,5 @@
-# EnerSafe-Report
-Official documentation repository for the EnerSafe IoT project by the startup VoltGuard. Includes AV1, TB1, AV2, TB2, reports, presentations, and logs. Focused on electrical safety using IoT monitoring, real-time alerts, and predictive maintenance for PLUZ and LUZ DEL SUR. Uses GitFlow and semantic versioning.
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup**EnerSafe IoT** es una startup peruana de tecnología industrial (SafetyTech) enfocada en la digitalización de la seguridad en el sector energético. Nuestra misión es reducir los accidentes eléctricos mediante el monitoreo inteligente de infraestructura crítica. Utilizamos dispositivos IoT para capturar datos en tiempo real, permitiendo a empresas como **ORYGEN PERÚ** anticiparse a fallas y garantizar la continuidad del servicio eléctrico.
